@@ -59,5 +59,14 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 
+.text{
+  color: black;
+  display: flex;
+  font-size: 40px;
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  align-items: center;
+}
 
 
